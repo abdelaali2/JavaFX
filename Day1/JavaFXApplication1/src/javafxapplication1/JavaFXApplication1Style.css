@@ -1,0 +1,10 @@
+#mainText{
+    -fx-fill: white;
+    -fx-font-weight:bolder;
+    -fx-font-size:55;
+    -fx-box-reflect:below 30px;
+}
+
+#rect{
+    -fx-fill: linear-gradient(rgba(0,212,255,1), rgba(9,9,121,1), rgba(0,212,255,1));
+}
